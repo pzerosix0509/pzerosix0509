@@ -1,16 +1,27 @@
-## Hi there 👋
+# pzerosix0509
+My professional cybersecurity profile
 
-<!--
-**pzerosix0509/pzerosix0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Trương Duy Phú – Cybersecurity Enthusiast 🔐
 
-Here are some ideas to get you started:
+🎓 First-year IT student at University of Science, Ho Chi Minh City  
+🧠 Passionate about cybersecurity, especially in threat analysis and digital investigation  
+💻 Currently learning: C++, Python, and network security basics  
+🛠️ Exploring topics like ethical hacking, vulnerability scanning, and system defense  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗨️ Professional Statement
+> I’m a first-year IT student driven by cybersecurity and digital safety. I’m passionate about cyber investigation and uncovering hidden threats in digital environments. I value protecting individuals and organizations from evolving cyber threats and aim to become a trusted security professional. I’m committed to continuous learning and growth, currently developing my skills in C++, Python, and hands-on cybersecurity labs.
+
+## 📁 Portfolio
+- 🎓 [Coursera Certificate: Foundations of Security](#)
+- 📜 [Professional Statement PDF](#)
+- 🧩 CTF writeups: (coming soon)
+- 🛠️ Projects: (to be updated as I progress)
+
+## 🌱 Goals
+- Master C++ and Python for security scripting
+- Gain hands-on experience through Capture the Flag (CTF) challenges
+- Learn more about digital forensics and incident response
+
+---
+
+🔗 Let's connect and learn together!
